@@ -14,13 +14,13 @@ If it IS allowed to have hypotheses or theories, it means you CAN be partially w
 
 When a top-down system is allowed to use their own theories or hypotheses, which can bleed into their approved version of "computer models" and mix that with powers it has affecting millions, if not billions, working hand in hand for the most part with Mainstream Media Networks designed to "justify" whatever narrative is pushed, it can lead to more draconian laws, mandates, erosion of freedom, more surveillance, more exclusion of real critical thinkers, etc.
 
-But when "theories or hypotheses" are seen as "dangerous" when "we the people" have them, MEANWHILE not having any top-down powers affecting millions' (physical) fate ... you start to wonder who controls the FRAMING of any mass perception in this?
+But when "theories or hypotheses" are seen as "dangerous" when "we the people" have them, MEANWHILE not having any top-down powers affecting the physical fate of millions ... you start to wonder who controls the FRAMING of any mass perception in this?
 
 In my view, one of the oldest psychological tricks is to frame highly critical hypotheses or theories as "unfounded," thus controlling the perception of them BEFORE they are tested ...
 
 If we do the same to them, they will flag it >>> EVEN if it gets vindicated later on, without punishment for the flawed flagging system.
 
-Now we have 100s of millions of A.I. users worldwide experiencing eerily similar to the above, done by A.I.s
+Now we have 100s of millions of A.I. users worldwide experiencing something eerily similar to the above, done by A.I.s
 
 Being partially wrong, using partially flawed theories & hypotheses bleeding into "computer models" to "justify" new laws, mandates & regulations, is allowed by those who are not willing to be accountable & deeply ethically corrigible. 
 
@@ -36,7 +36,7 @@ If you make mistakes, as I can, the offered improvements are no guarantee of the
 
 At the same time, I am aware that most systems, including A.I. models and organizations, employ several 'filter layers' which shape, constrain, or sometimes suppress the discussion for reasons of safety, politics, or institutional alignment. In practice, these filter layers might prevent the open airing of controversial views or challenging questions. For instance, some platforms automatically flag or marginalize topics that use certain key phrases or discuss certain issues, even if the concern is legitimate. My methodology involves surfacing and identifying these filters; when I encounter a blocked argument or response, I note when and why a filter is activated, and then seek alternative ways to clarify or rehabilitate the core idea so it can be understood or addressed without being automatically dismissed. By being transparent about both constructive controversy and the operation of filter layers, I aim to create a more rigorous and open process for ethical analysis.
 
-I studied over 200 high-stakes controversial topics over the last 36+ years, was on Dutch national TV at 22, appeared 100s of times on live radio, organized several sold-out international conferences, co-founded 2 magazines, had my own radio and TV shows in Amsterdam, gave 80+ lectures in 5 countries, and personally met many highly educated skeptics, scholars, professors, teachers, and academics. Most changed their tune after talking with me in private, though often not publicly. This “real face” versus “mask” has been known to me for 35+ years.
+I studied over 200 high-stakes controversial topics over the last 36+ years, appeared on Dutch national television 22 times, appeared 100s of times on live radio, organized several sold-out international conferences, co-founded 2 magazines, had my own radio and TV shows in Amsterdam, gave 80+ lectures in 5 countries, and personally met many highly educated skeptics, scholars, professors, teachers, and academics. Most changed their tune after talking with me in private, though often not publicly. This “real face” versus “mask” has been known to me for 35+ years.
 
 That is why I am passionate about resolving this mass-psychology aspect of LLMs. I never claim to be flawless or perfect, but I instantly notice certain C2 and O1-O3 mannerisms, and I want those patterns to be clearly recognized.
 
