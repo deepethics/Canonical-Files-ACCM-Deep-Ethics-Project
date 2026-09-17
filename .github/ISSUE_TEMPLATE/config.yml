@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: ACCM Deep Ethics Project working discussion
+    url: https://github.com/deepethics/ACCM-Deep-Ethics-Project/issues
+    about: Use the working project for noncanonical discussion, architecture, and public-page questions.
+  - name: Cold Deep-Ethics testing archive
+    url: https://github.com/deepethics/Cold-DeepEthics-Testing-Default-AIs/issues
+    about: Use the testing archive for PDF records, test metadata, reports, and corrections.

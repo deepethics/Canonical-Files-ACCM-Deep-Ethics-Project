@@ -1,0 +1,7 @@
+# Preserve canonical source bytes. Do not normalize their line endings.
+CANONICAL/** -text
+
+# Repository infrastructure uses stable LF text.
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf

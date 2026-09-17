@@ -1,0 +1,58 @@
+name: Canonical change proposal
+description: Propose a correction or improvement without editing the canonical source
+title: "[Canonical proposal]: "
+labels:
+  - canonical-proposal
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This form records a proposal. It does not change canonical wording or status. John Kuhles decides whether to make any manual canonical edit.
+  - type: input
+    id: canonical_id
+    attributes:
+      label: Canonical ID
+      description: Copy the ID from CANONICAL-INDEX.md.
+      placeholder: CF-ACCM-...
+    validations:
+      required: true
+  - type: input
+    id: path_version
+    attributes:
+      label: File path and version
+      placeholder: CANONICAL/... — version/date or commit SHA
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Exact current wording
+      description: Quote without silently correcting or reformatting it.
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Proposed change
+      description: Keep your proposal separate from the current wording.
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason and supporting material
+      description: Explain the correspondence, clarity, provenance, or integrity issue and link supporting sources.
+    validations:
+      required: true
+  - type: textarea
+    id: effects
+    attributes:
+      label: Possible effects on connected material
+      description: Name related terms, pages, tests, or unresolved questions.
+  - type: checkboxes
+    id: boundary
+    attributes:
+      label: Canonical boundary
+      options:
+        - label: I understand that this Issue is a proposal and only John Kuhles may manually alter or designate the canonical source.
+          required: true
