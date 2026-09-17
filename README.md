@@ -44,7 +44,7 @@ If any condition is missing, describe the item as **proposed**, **derived**, **w
 
 The repository framework is active. John explicitly authorized the first canonical source as the sole initial upload exception:
 
-[Canonical 27 obstructions of deep ethical sense-making processes plus 12 fixes](CANONICAL/27-plus-12/Canonical-27-obstructions-of-deep-ethical-sense-making-processes-plus-12-fixes.md)
+[Canonical 27 obstructions of deep ethical sense-making processes plus 12 fixes](CANONICAL/27-plus-12/Canonical-27-obstructions-of-deep-ethical-sense-making-processes-plus-12-fixes.md) · [immutable first publication](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/blob/5bd8508eaf402ca30c9241e6384fa54f9158119d/CANONICAL/27-plus-12/Canonical-27-obstructions-of-deep-ethical-sense-making-processes-plus-12-fixes.md)
 
 The supplied text already contained Markdown structure. It was published as `.md` with its wording, ordering, spelling, qualifiers, and CRLF byte sequence preserved. Future original canonical files are uploaded by John alone.
 
