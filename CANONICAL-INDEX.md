@@ -19,6 +19,7 @@ A path listed here as **Canonical** must also have a matching SHA-256 entry in [
 | ID | Title | Path | Version/date | Status | SHA-256 | Related working reference |
 |---|---|---|---|---|---|---|
 | CF-ACCM-27+12-001 | Canonical 27 obstructions of deep ethical sense-making processes plus 12 fixes | [Markdown source](CANONICAL/27-plus-12/Canonical-27-obstructions-of-deep-ethical-sense-making-processes-plus-12-fixes.md) | [2026-09-17 / initial canonical publication](https://github.com/deepethics/Canonical-Files-ACCM-Deep-Ethics-Project/commit/5bd8508eaf402ca30c9241e6384fa54f9158119d) | **Canonical** | `4342a68afc418a64c36fe659f9221236c5eca3696434714336e3d340e6471d3c` | [27+12 working architecture](https://deepethics.github.io/ACCM-Deep-Ethics-Project/CORE/27-PLUS-12/) |
+| CF-ACCM-QPTH-001 | Hypotheses and theories | Reserved path: `CANONICAL/questions-perspectives-theories-and-hypotheses/Hypotheses-and-theories.md` | Pending John’s manual upload | **Pending** | Pending byte verification | [Deeper Introduction](https://deepethics.github.io/ACCM-Deep-Ethics-Project/DEEPER-INTRODUCTION/) |
 
 ## Registration checklist
 

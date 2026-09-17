@@ -10,6 +10,7 @@ Canonical files are authored and edited only by **John Kuhles**. A.I.s and other
 
 - [Canonical index](CANONICAL-INDEX.md) — the authoritative register of published canonical files
 - [Canonical source area](CANONICAL/README.md) — where John manually publishes canonical files
+- [John’s Questions, Perspectives, Theories & Hypotheses](CANONICAL/questions-perspectives-theories-and-hypotheses/README.md) — exact inquiry objects; canonical authorship does not mean absolute or proven
 - [Governance](GOVERNANCE.md) — authority, roles, and change boundaries
 - [Integrity and versioning](INTEGRITY.md) — checksums, immutable links, and version practice
 - [Citation guide](CITATION.md) — how to cite canonical and derived material without confusing them

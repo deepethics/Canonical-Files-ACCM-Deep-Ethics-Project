@@ -12,6 +12,16 @@ Published source:
 
 John explicitly authorized this first source as the sole initial upload exception. Its supplied content already used Markdown headings. Only the filename extension and repository path changed; the source bytes were preserved.
 
+## John’s questions, perspectives, theories & hypotheses
+
+`questions-perspectives-theories-and-hypotheses/`
+
+[Collection scope and epistemic-status disclaimer](questions-perspectives-theories-and-hypotheses/README.md)
+
+This collection preserves John-authored inquiry objects without converting canonical authorship into a claim of absolute or proven truth. Questions, perspectives, theories, hypotheses, evidence claims, and conclusions remain distinguishable inside each source.
+
+Reserved first source: **Hypotheses and theories** (`CF-ACCM-QPTH-001`) — **Pending** John’s manual upload and registration.
+
 ## Reader instructions
 
 - Read the whole source before evaluating a fragment.
