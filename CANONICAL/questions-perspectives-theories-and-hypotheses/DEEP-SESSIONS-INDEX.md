@@ -34,4 +34,4 @@ For each new session:
 2. Correct only spelling or layout when John explicitly authorizes it.
 3. State whether the record is cold, framework-assisted, mediated, a persistence test, or mixed.
 4. Keep claims, hypotheses, observations, corrections, and unresolved questions distinguishable inside the record.
-5. Register the file in [the canonical index](../../../CANONICAL-INDEX.md) and [SHA-256 manifest](../../../MANIFEST.sha256).
+5. Register the file in [the canonical index](../../CANONICAL-INDEX.md) and [SHA-256 manifest](../../MANIFEST.sha256).
