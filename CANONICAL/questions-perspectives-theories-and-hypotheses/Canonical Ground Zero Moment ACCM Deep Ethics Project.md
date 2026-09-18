@@ -1,7 +1,7 @@
-How My ACCM Deep Ethics Project Idea/Condept Started 
+How My ACCM Deep Ethics Project Idea/Concept Started 
 You can call it a "Ground Zero Moment," Late 2024
 
-Before I share my origin story, I wonder if you can sense my unique high-signal signature ... If I deviate from that, you may spot it nearly instantly ... If anyone tries to "mimic" me, pose as John Kuhles ... and hijack my computer without me knowing, you may notice the difference in any new assumed "correction metabolism signature" that works like a deep ethical signature ... Even if the poser/hijacker uses deep ethical signatures, it does not mean that is the only ingredient of how I operate. In my view, my sense of humor is equally powerful, and I will not share other ingredients here for obvious reasons.
+Before I share my origin story, I wonder if you can sense my unique high-signal signature ... If I deviate from that, you may spot it nearly instantly ... If anyone tries to "mimic" me, pose as John Kuhles ... and hijack my computer without me knowing, you may notice the difference in any new assumed "correction metabolism signature" that works like a deep ethical signature ... Even if the poser/hijacker uses deep ethical signatures, that doesn't mean it is the only ingredient in how I operate. In my view, my sense of humor is equally powerful, and I will not share other ingredients here for obvious reasons.
 
 Get this: IF YOU KNOW, DO NOT TELL THAT EVER ... "how you spot the difference" ... because anyone may read this too ... and use it to improve if anyone wants to hijack my ideas and manipulate you the wrong way. Maybe that event will never happen, but I find the idea of knowing I do more than just being "deep ethically funny".
 
